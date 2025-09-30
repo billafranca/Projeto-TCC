@@ -1,0 +1,38 @@
+MODELO PARA INFORMAÇÕES DISCUTIDAS EM REUNIÕES | BRAINSTORMS | SRPINTS
+
+Data: 11/09;2025
+Horário: 21:20
+Local: Etec uirapuru
+
+Equipe_01
+Membros:
+-Lucas G.;
+-Italo B.;
+-André P. (ausente);
+-Pedro B. (ausente)
+
+Assuntos discutidos: Levantamentos de requisitos funcionais para o TCC (já discutido anteriomente):
+
+- Prover tela de login - cadastro;
+- Prover tela de login - Recuperar senha;
+- Prover tela de cadastro - login;
+- Prover botão de alteração de tema; 
+- prover tela de personalização de usuário;
+- Prover tela para grupos de conversa;
+- Prover tela de Fóruns; 
+- Prover tela de análise gráfica baseada no histórico - análise de desempenho e dificuldades;
+- Prover botão para Análise de redações por IA; (função complexa dito pelo professor, daria um projeto só sobre essa função)
+- Prover tela de simulados - categorias;
+- Prover tela para Estímulo diário - streak;
+- prover Notificão ao Usuário;
+- Prover tela para download de um acervo digital;
+- Prover tela para flashcards;
+- Prover tela para mapas mentais;
+- Prover tela de ranking online;
+- prover botão de Chatbot para entender questões respondidas erradas;
+
+
+PRÓXIMA REUNIÃO
+Assuntos que serão discutidos: não definido
+Data: 16/09/25
+Horário: não definido

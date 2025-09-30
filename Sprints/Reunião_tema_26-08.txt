@@ -1,0 +1,40 @@
+26/08/2025
+Inicío: 19:40
+Término: 20:15
+Local: Laboratório 1, Etec Uirapuru, São Paulo, SP, Brasil
+
+Membros:
+Italo Bezerra
+Lucas Guimarães
+Andre Petrella
+Pedro Billafranca (não-presente)
+
+Assunto: Levantamento de temas para o TCC
+
+Temas propostos:
+
+- Aplicativo mobile para ajudar entregadores a identificar locais/regiões perigosas (Italo)
+Problema: Grandes índices de assalto e criminalidade em São Paulo.
+
+- Aplicativo que facilita no gerenciamento de finanças (Lucas)
+Problema: Grande índice de endividamento e baixa educação financeira no Brasil.
+
+- * Sistema gerenciador de trânsito (rodizío, etc.) (Pedro)
+Problema: Falta de organização e divulgação de informações relacionadas a tráfego em São Paulo.
+
+- Aplicativo/website que ajude estudantes do ensino médio com vestibular/olimpiada (Andre)
+Problema: Baixa nota geral em vestibulares e pequeno número de brasileiros em competições
+internacionais.
+
+Consenso:
+O projeto mais votado, pelo consenso geral, foi o de aplicar conhecimentos para preparação de
+alunos do ensino médio para futuros vestibulares ou competições de conhecimento. Tema proposto por
+Andre.
+
+Próxima Reunião:
+Programada para 28/08/2025.
+Na aula de Análise de Projetos de Sistemas, com o professor Paulo Rogério.
+No horário 21:00, em um dos laboratórios disponíveis.
+Assunto ainda não definido.
+
+Andre Petrella, Aluno.

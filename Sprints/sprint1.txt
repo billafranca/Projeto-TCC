@@ -1,0 +1,24 @@
+Equipe de TCC
+
+André Petrella
+Pedro Billafranca
+Lucas guimarães
+Italo Bezerra
+
+
+
+Ideias: 
+
+Identificação de problemas locais:
+1. Gerenciamento de finanças (educação financeira) -- um dos maiores problemas do Brasil é a educação financeira (cerca de 74% das familias devem)
+-> Uma possível solução: Um sistema que ajude a controlar a renda pessoal.
+
+2. Criminalidade (segurança civil)
+-> Uma possível solução seria um sistema que identifique as áreas de maior risco de cada região.
+
+3. Saúde -- sistema falho e desorganizado
+-> Uma possível solução seria uma analíse sistemática e implementação de diferentes para resolver assuntos burocráticos físicos.
+
+4. Educação (ensino básico)
+5. Organização de sistemas públicos
+6. Trânsito

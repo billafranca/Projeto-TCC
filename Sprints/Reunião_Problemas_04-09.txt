@@ -1,0 +1,29 @@
+Data: 04/09/2025
+Horário: 21:30
+Local: Aula de APS, Laboratório 3, Etec Uirapuru
+
+Equipe_04
+Membros:
+
+-Italo Bezerra
+-Lucas Guimarães
+-Pedro Braga(ausente)
+-Andre Petralha(ausente)
+
+Assuntos Discutidos:
+
+Levantamento de Problemas: O que leva o estudante a um baixo rendimento em provas/vestibulares?
+
+Conclusão:
+
+Problemas Encontrados:
+
+->Fatores Socioeconômicos: Muitos estudantes do ensino médio já possuem empregos para ajudar na renda familiar, o que resulta em falta de tempo para se dedicar aos estudos.
+
+->Ambiente de Estudos adequado: a falta de um ambiente adequado de estudo em casa como um espaço tranquilo é um fator relevante, prejudicando o desempenho acadêmico.
+
+->Defasagem no Ensino Básico: Diversos estudantes apresentam lacunas no aprendizado básico, em diciplinas como português, o que impacta em exames mais complexos.
+
+->Ambiente Escolar (Estrutura e Materiais): Muitas escolas públicas enfrentam dificuldades em oferecer uma infraestrutura boa. os materiais didáticos são rasos e os professores, em alguns casos não possuem formação suficiente.
+
+->Falta de Organização: Muitos estudantes não possuem uma estratégia clara e estruturada de estudo, o que resulta em um uso ineficaz do tempo. A falta de planejamento adequado leva à ausência de revisões e à falta de foco nas matérias mais importantes.

@@ -1,0 +1,39 @@
+MODELO PARA INFORMAÇÕES DISCUTIDAS EM REUNIÕES | BRAINSTORMS | SRPINTS
+
+Data: 09/09;2025
+Horário: 20:10
+Local: Etec uirapuru
+
+Equipe_01
+Membros:
+-Lucas G.;
+-Italo B.;
+-André P. (ausente);
+-Pedro B. (ausente)
+
+Assuntos discutidos: Levantamentos de requisitos funcionais para o TCC (já discutido anteriomente):
+
+- cadastro usuário/login
+- Autenticar o usuário
+- Recuperar senha
+- Trocar Senha
+- Deletar usuário
+- Versão Webb + App
+- Fóruns, grupos de conversa
+- Representações gráficas (análise de desempenho e dificuldades)- Analise de redações por IA
+- Simulados realistas e categorizados (questões específicas)
+- Estímulo diário (streak, etc.)
+- Notificar o Usuário
+- Acesso para download de um acervo digital (livros, apostilas, etc.)
+- Métodos modernos para estudo (flashcards, mapas mentais)
+- Competições online e ranking
+- Chatbot para entender questões respondidas erradas
+
+Conclusão:
+
+- Na Reunião de hoje com base em reuniões anteriores junto com o esboço definimos de forma superficial alguns requisitos funcionais do projeto 
+
+PRÓXIMA REUNIÃO
+Assuntos que serão discutidos: não definido
+Data: 11/09/25
+Horário: não definido
