@@ -1,0 +1,27 @@
+Data: 11/01/2025
+Horário: 13:00
+Local: Chamada de video
+
+Equipe_04
+
+Membros:
+
+- Italo Bezerra
+- Lucas Guimarães
+- Pedro Billafranca
+
+Assuntos discutidos: Protótipos de baixa, media e alta definição
+
+
+Conclusão:
+Discutimos a forma com que faremos os prototipos. 
+
+
+
+PRÓXIMA REUNIÃO
+
+Assuntos que serão discutidos: Não definido
+
+Data: 08/11/25
+Horário: 13:00
+Local: Chamada de video

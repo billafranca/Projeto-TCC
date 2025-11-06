@@ -1,0 +1,101 @@
+Data: 30/08/2025
+Duração: 40 minutos
+
+Equipe_04
+Membros:
+- Italo Bezerra
+- Lucas Guimarães
+- Pedro Billafranca
+- André Petrella
+
+Assunto Discutidos: Definição de ideias, compartilhamento de visões sobre o projeto
+
+Conclusão:
+
+Inicialmente, pretendíamos separar a Sprint em 6 tópicos principais:
+	
+	- Reflexão sobre público alvo do projeto
+	- Qual impacto queremos gerar com o projeto?
+	- Reflexão sobre restrição de tempo e recursos
+	- Definição de ideias iniciais de funcionalidades (sem muito detalhamento)
+	- Reflexão sobre papéis no projeto
+	- Reflexão sobre esboço para entregar na terça-feira
+
+Tópico I. Público Alvo
+
+Definimos inicialmente o público alvo como adolescentes do ensino médio que desejam
+ingressar em universidades por meio de vestibulares (ENEM, FUVEST, COMVEST, etc.), mas
+apresentam defasagens de aprendizado ou dificuldades de absorção de conteúdo.
+Tópico II. Impacto Esperado
+Refletimos sobre o impacto que desejamos que nosso projeto tenha socialmente e o definimos
+como positivo na vida dos estudantes, auxiliando-os a aplicar métodos de estudo de forma
+prática e acessível. Também refletimos sobre aplicar o projeto no dia a dia e fazer divulgações
+em escolas.
+
+
+Tópico III. Tempo e Recursos
+
+O grupo inicialmente considera o projeto viável, mesmo considerando que temos
+aproximadamente de 8 a 10 meses para o desenvolvimento. Concluímos que os recursos
+requisitados para o desenvolvimento do projeto são alcançáveis. Houve consenso de que os
+recursos e tempo disponíveis são suficientes, embora o tema tenha gerado reflexões importantes
+sobre escopo.
+
+
+Tópico IV. Idéias de Funcionalidades
+
+Apresentamos algumas ideias de funcionalidades que queríamos que o projeto possuísse, entre
+elas:
+	- Correção de redação com IA (Italo)
+	- Simulados e mini-simulados (Andre)
+	- Mapas mentais (Andre)
+	- Aprendizado gamificado (Pedro)
+	- Flashcards para revisão (Andre)
+	- Chatbot voltado a vestibulares (Italo)
+	- Rankings; “pódios online” (Andre)
+
+Essas foram idéias iniciais, mas pretendemos implementar mais elementos a essa lista.
+
+
+Tópico V. Papéis e Afinidades
+
+Definimos as principais habilidades que cada integrante reconhecia em si mesmo junto com o
+domínio relativo dessa habilidade para a implantação no nosso projeto. Concluimos:
+
+	- Pedro: Frontend, UX/UI, design, levantamento de funcionalidades. (nível intermediáriobásico)
+	- Italo: Backend e design. (nível intermediário-básico)
+	- Lucas: Backend e pesquisa. (nível intermediário-básico)
+	- Andre: Arquitetura/projeção do projeto, definição de funcionalidades e pesquisa. (nível intermediário-básico)
+
+Observação: todos concordaram que o TCC também será oportunidade para desenvolver habilidades em documentação, organização e trabalho em equipe.
+
+
+Tópico VI. Próximos Passos
+
+	- Produzir esboço do projeto solicitado pelo professor, com base nas ideias discutidas.
+	- Definir backlog inicial de funcionalidades prioritárias.
+	- Avaliar ferramentas de organização (Notion, Trello, etc.) para gestão das próximas sprints.
+
+Tópico VII. Observações Técnicas
+
+Refletimos sobre qual linguagem de programação seria a mais adequada para o nosso projeto e consideramos:
+	
+	- Java (3 votos)
+	- Kotlin (1 voto)
+
+Mas pretendemos escolher a linguagem de acordo com o contexto do grupo ao longo do projeto.
+
+
+VIII. Finalização
+
+Essa reunião semanal nos ajudou a definir algumas ideias e conceitos sobre o projeto logo no seu
+início. Discutimos tecnologias, funcionalidades e etc. Pretendemos realizar esse tipo de reunião
+todo final de semana com o objetivo de refletir sobre o que aprendemos e absorvemos no
+decorrer de cada semana em relação ao projeto do TCC.
+
+Andre Petrella, Aluno.
+
+PRÓXIMA REUNIÃO
+Assuntos que serão discutidos: Esboços
+Data: 09/02/2025
+Horário: não definido

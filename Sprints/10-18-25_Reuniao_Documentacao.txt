@@ -1,0 +1,26 @@
+Data: 18/10/2025
+Horário: 13:00
+Local: Chamada de video
+
+Equipe_04
+
+Membros:
+
+- Italo Bezerra
+- Lucas Guimarães
+- Pedro Billafranca
+
+Assuntos discutidos: Documentação, pesquisas e Diagramas
+
+
+Conclusão:
+Tarefa da formatação da documentação atribuida a um membro. 
+
+
+PRÓXIMA REUNIÃO
+
+Assuntos que serão discutidos: Slides de apresentação e Documentação
+
+Data: 18/10/2025
+Horário: 13:00
+Local: Chamada de video

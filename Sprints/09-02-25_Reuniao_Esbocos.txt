@@ -1,0 +1,32 @@
+Data: 02/09/2025
+Início: 20:30
+Local: Laboratório ETEC
+
+Equipe_04
+Membros:
+
+Andre Petrella
+Italo Bezerra
+Lucas Guimarães
+Pedro Billafranca
+
+Assuntos discutidos: levantamento de ideias para esboço final e análise de rascunhos
+
+Conclusão:
+
+- Web & App
+- Fóruns, grupos de conversa
+- Representações gráficas (análise de desempenho e dificuldades)
+- Conta: cadastrar, logar, etc.
+- Analise de redações por IA
+- Simulados realistas e categorizados (questões específicas)
+- Estímulo diário (streak, etc.)
+- Acervo digital (livros, apostilas, etc)
+- Métodos modernos (flashcards, mapas mentais)
+- Competições online e ranking
+- Chatbot para entender questões respondidas erradas
+
+PRÓXIMA REUNIÃO
+Assuntos que serão discutidos: Problematização
+Data: 04/09/2025
+Horário: não definido

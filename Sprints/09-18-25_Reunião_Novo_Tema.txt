@@ -1,0 +1,26 @@
+Data: 18/09/2025
+Horário: 19h20
+Local: Sala de Aula
+
+Equipe_04
+
+Membros:
+
+- Italo Bezerra
+- Lucas Guimarães
+- Pedro Billafranca
+
+Assuntos discutidos: Saida de um membro do Time e novo tema para o TCC 
+
+Conclusão: 
+Em um coffebreak para confraternização do grupo sugerido pelo orientador prof° Paulo Rogério, o grupo chegou a conclusão que mudar o tema, aplicativo/Website para estudos em geral focado em vestibulares, para um sistema  com foco em correção e evolução dos usuarios em redaçoes dissertativa-argumentativa, dos vestibulares Enem e Prova Paulista.
+
+Como novo Scrum Master escolhemos Pedro Billafranca
+
+PRÓXIMA REUNIÃO
+
+Assuntos que serão discutidos: Pesquisas sobre o tema: Redação nos Vestibulares
+
+Data: 20/09/2025
+Horário: Não definido
+Local: Laboratório de Informática

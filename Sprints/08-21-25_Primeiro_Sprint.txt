@@ -1,11 +1,14 @@
-Equipe de TCC
+Data: 21/08/2025
+Início: 20:40
+Local: Laboratório ETEC
+
+Equipe_04
+Membros:
 
 André Petrella
 Pedro Billafranca
-Lucas guimarães
+Lucas Guimarães
 Italo Bezerra
-
-
 
 Ideias: 
 
@@ -22,3 +25,8 @@ Identificação de problemas locais:
 4. Educação (ensino básico)
 5. Organização de sistemas públicos
 6. Trânsito
+
+PRÓXIMA REUNIÃO
+Assuntos que serão discutidos: não definido
+Data: 26/08/25
+Horário: não definido

@@ -1,0 +1,32 @@
+Data: 11/10/2025
+Horário: 13:00
+Local: Chamada de Video
+
+Equipe_04
+
+Membros:
+
+- Italo Bezerra
+- Lucas Guimarães
+- Pedro Billafranca
+
+Assuntos discutidos: analise do professor sobre a apresentação e o começo dos diagramas UML e Caso de Uso
+
+Conclusão:
+
+Analise da banca Professor Paulo Rogério e dos alunos Jose Daniel e Samuel 3° modulo DS
+	- Melhorar Esboço
+	- Conversar sobre Redação
+	- Ajustar Objetivos e a Justificativa
+	- Ferramentas usar icones 
+	- Repetião do Slide
+
+Designamos as tarefas dos diagramas a dois menbros membros e definimos uma logo e nome da aplicação "Reda+".
+
+PRÓXIMA REUNIÃO
+
+Assuntos que serão discutidos: Não definido
+
+Data: 11/10/2025
+Horário: 13:00
+Local: Chamada de video

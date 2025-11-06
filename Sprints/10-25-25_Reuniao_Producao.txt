@@ -1,0 +1,25 @@
+Data: 25/10/2025
+Horário: 13:00
+Local: CHamada de Video
+
+Equipe_04
+
+Membros:
+
+- Italo Bezerra
+- Lucas Guimarães
+- Pedro Billafranca
+
+Assuntos discutidos: Novo esboço e andamento dos diagramas e documentação
+
+Conclusão:
+Arrumamos os Slides, definimos um novo esboço, e verificamos como vão as tarefas dos diagramas e documentação 
+
+
+PRÓXIMA REUNIÃO
+
+Assuntos que serão discutidos: Não defindo
+
+Data: 01/11/2025
+Horário: 13:00
+Local: Chamada de video

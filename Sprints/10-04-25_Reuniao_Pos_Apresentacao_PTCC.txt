@@ -1,0 +1,29 @@
+Data: 04/10/2025
+Horário: 13:00
+Local: Chamada de video
+
+Equipe_04
+
+Membros:
+
+- Italo Bezerra
+- Lucas Guimarães
+- Pedro Billafranca
+
+Assuntos discutidos: O que temos que melhorar de acordo com os feedback sobre a nossa apresentação.
+
+Conclusão:
+          Pontos a melhorar:
+	- Posicionamento na apresentação
+	- Esboço 
+	- Definir a logo e nome do nosso sistema
+	- Arrumar os Slides (Icones, objetivo especifico e Gráficos para dados)
+	- Estudar sobre IA
+
+PRÓXIMA REUNIÃO
+
+Assuntos que serão discutidos: Logo e nome da aplicação e Diagramas de classe e Caso de Uso
+
+Data: 11/10/2025
+Horário: 13:00
+Local: Chamada de video

@@ -1,0 +1,26 @@
+Data: 21/10/2025
+Horário: 13:00
+Local: Chamada de video
+
+Equipe_04
+
+Membros:
+
+- Italo Bezerra
+- Lucas Guimarães
+- Pedro Billafranca
+
+Assuntos discutidos: Arrumar os slides de Apresentação
+
+
+Conclusão:
+Slides Arrumados exceto pór alguns pontos (Esboço, documentação e diagramas)
+
+
+PRÓXIMA REUNIÃO
+
+Assuntos que serão discutidos: Andamento geral do projeto.
+
+Data: 25/10/2025
+Horário: 13:00
+Local: Chamada de Video

@@ -1,0 +1,44 @@
+Data: 20/09/2025
+Horário: 13:00
+Local: Chamada de video
+
+Equipe_04
+
+Membros:
+
+- Italo Bezerra
+- Lucas Guimarães
+- Pedro Billafranca
+
+Assuntos discutidos: Requisitos, esboços e andamento das pesquisas
+
+
+Conclusão:
+Definimos aluguns requisitos para a nossa nova aplicação
+
+Requisitos funcionais voltados a Redação:
+	- Correção com IA (Semântica, Sintaxe,
+	- Gramática, Ortografia).
+	- Modelos de estrutura de redações com coerência e coesão.
+	- Textos norteadores sobre o tema que ousuário escolher dentro do sistema
+
+Funcionalidades:
+	- chatBot para dúvidas constantes sobre a redação, como deve ser estruturada, como ser coeso etc…
+	- Gráfico de desempenho, o usuário que ir fazendo suas redações, verá sua evolução no quesito de pontuações que ele vem fazendo.
+No gráfico, colocar tudo o que o usuário errou durante a realização das redações (coesão sequencial, referencial, erros gramaticais etc…).
+
+	- modelos de redações nota 900+
+	- Aba de select para selecionar um tema do ENEM e Prova Paulista, o tema escolhido, irá aparecer textos norteadores desse mesmo tema.
+
+Funcionalidades básicas:
+	- Página inicial, páginas de login/cadastro.
+	- botões interativos para se interligar com as páginas.
+	- configurações de acessibilidade, mudança de tema (escuro, claro).
+
+PRÓXIMA REUNIÃO
+
+Assuntos que serão discutidos: Pesquisas
+
+Data: 23/09/2025
+Horário: Não definido
+Local: Laboratório Informática

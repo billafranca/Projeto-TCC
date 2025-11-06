@@ -5,10 +5,10 @@ Local: Aula de APS, Laboratório 3, Etec Uirapuru
 Equipe_04
 Membros:
 
--Italo Bezerra
--Lucas Guimarães
--Pedro Braga(ausente)
--Andre Petralha(ausente)
+- Italo Bezerra
+- Lucas Guimarães
+- Pedro Braga(ausente)
+- Andre Petralha(ausente)
 
 Assuntos Discutidos:
 
@@ -27,3 +27,8 @@ Problemas Encontrados:
 ->Ambiente Escolar (Estrutura e Materiais): Muitas escolas públicas enfrentam dificuldades em oferecer uma infraestrutura boa. os materiais didáticos são rasos e os professores, em alguns casos não possuem formação suficiente.
 
 ->Falta de Organização: Muitos estudantes não possuem uma estratégia clara e estruturada de estudo, o que resulta em um uso ineficaz do tempo. A falta de planejamento adequado leva à ausência de revisões e à falta de foco nas matérias mais importantes.
+
+PRÓXIMA REUNIÃO
+Assuntos que serão discutidos: Requisitos funcionais
+Data: 09/09/2025
+Horário: não definido

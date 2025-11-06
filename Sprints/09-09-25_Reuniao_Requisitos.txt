@@ -1,15 +1,14 @@
-MODELO PARA INFORMAÇÕES DISCUTIDAS EM REUNIÕES | BRAINSTORMS | SRPINTS
-
-Data: 09/09;2025
+Data: 09/09/2025
 Horário: 20:10
 Local: Etec uirapuru
 
-Equipe_01
+Equipe_04
 Membros:
--Lucas G.;
--Italo B.;
--André P. (ausente);
--Pedro B. (ausente)
+
+- Italo Bezerra
+- Lucas Guimarães
+- Andre Petrella
+- Pedro Billafranca (Ausente)
 
 Assuntos discutidos: Levantamentos de requisitos funcionais para o TCC (já discutido anteriomente):
 
